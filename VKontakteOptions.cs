@@ -1,10 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Security.Claims;
-using Microsoft.AspNetCore.Authentication;
-using System.Globalization;
 using Microsoft.AspNetCore.Authentication.OAuth;
 using Microsoft.AspNetCore.Http;
+using System;
+using System.Collections.Generic;
+using System.Globalization;
 
 namespace Authentication.VKontakte.Core
 {
